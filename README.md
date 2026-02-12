@@ -65,3 +65,4 @@ A powerful, customizable finance dashboard built with Next.js, allowing users to
 - **Tailwind**: Used for rapid, scalable styling with dark mode support.
 
 Kishore R-Cse
+
