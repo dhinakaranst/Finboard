@@ -66,3 +66,8 @@ A powerful, customizable finance dashboard built with Next.js, allowing users to
 
 Kishore R-Cse
 
+
+--We build the project for Everyone to solve their problem and make helpful.
+
+Kaviyarasu
+
